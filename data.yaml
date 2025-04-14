@@ -1,0 +1,7 @@
+names:
+- kanama
+- iskemi
+nc: 2
+task: segment
+train: images/train
+val: images/val
