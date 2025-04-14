@@ -1,4 +1,4 @@
-from dicomutils import  dicomutils
+from goruntuisleme.dicomutils import  dicomutils
 import numpy as np
 
 from sklearn.model_selection import train_test_split
